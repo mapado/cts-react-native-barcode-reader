@@ -1,0 +1,53 @@
+{
+  "_from": "cts-react-native-barkod-reader",
+  "_id": "cts-react-native-barkod-reader@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-/Beeo65b7XE23e2N4hlHfC4xDnYLdVjrWpuQ+JBorcYGxIMGMvLi71OjV/dn63lxIg4U1iXYhLCGtmckwBBXLQ==",
+  "_location": "/cts-react-native-barkod-reader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cts-react-native-barcode-reader",
+    "name": "cts-react-native-barcode-reader",
+    "escapedName": "cts-react-native-barcode-reader",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cts-react-native-barcode-reader/-/cts-react-native-barcode-reader-1.0.7.tgz",
+  "_shasum": "95b9ec9ee810b44b88feaec80cd0572fc072e478",
+  "_spec": "cts-react-native-barcode-reader",
+  "_where": "",
+  "author": {
+    "name": "CTS YAZILIM"
+  },
+  "bugs": {
+    "url": "https://github.com/cts-yazilim/cts-react-native-barcode-reader/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This is a library for getting the referrer send by google broadcast on successful app install",
+  "homepage": "https://github.com/cts-yazilim/cts-react-native-barcode-reader#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cts-react-native-barcode-reader",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cts-yazilim/cts-react-native-barkod-reader.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.0"
+}
