@@ -1,8 +1,6 @@
 # cts-react-native-barkod-reader
 CTS barkod reader for Unitech - EA600
 
-# cts-react-native-barcode-reader
-
 ## Getting started
 
 `$ npm install git+https://github.com/cts-yazilim/cts-react-native-barcode-reader --save`
