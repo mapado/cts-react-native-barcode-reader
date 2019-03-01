@@ -33,7 +33,7 @@ CTS barkod reader for Unitech - EA600
 			<application ...>
 					.....
 			        <receiver
-						android:name="com.androidbroadcastreceiverforreferrer.ReferrerBroadcastReceiver"
+						android:name="com.barcodereader.BarcodeBroadcastReceiver"
 						android:enabled="true"
 						android:exported="true">
 						<intent-filter>
@@ -50,7 +50,7 @@ import { DeviceEventEmitter } from "react-native";
 
 //Add it in componentWillMount or somewhere where it will get executed at the start of app 
 DeviceEventEmitter.addListener('BarcodeScanerReceiver', function (map) {
-    console.log('BarcodeScanerReceiver: ' + map.referrer);
+    console.log('BarcodeScanerReceiver: ' + map.barkod_data);
 });
 
 //Do not forget to remove the listener at componentWillUnmount 
