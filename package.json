@@ -1,28 +1,26 @@
 {
-  "_from": "cts-react-native-barkod-reader",
-  "_id": "cts-react-native-barkod-reader@1.0.7",
+  "_from": "git+https://github.com/cts-yazilim/cts-react-native-barcode-reader.git",
+  "_id": "cts-react-native-barcode-reader@0.5.0",
   "_inBundle": false,
   "_integrity": "sha512-/Beeo65b7XE23e2N4hlHfC4xDnYLdVjrWpuQ+JBorcYGxIMGMvLi71OjV/dn63lxIg4U1iXYhLCGtmckwBBXLQ==",
-  "_location": "/cts-react-native-barkod-reader",
+  "_location": "/cts-react-native-barcode-reader",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "cts-react-native-barcode-reader",
-    "name": "cts-react-native-barcode-reader",
-    "escapedName": "cts-react-native-barcode-reader",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
+    "type": "git",
+    "raw": "https://github.com/cts-yazilim/cts-react-native-barcode-reader",
+    "rawSpec": "https://github.com/cts-yazilim/cts-react-native-barcode-reader",
+    "saveSpec": "git+https://github.com/cts-yazilim/cts-react-native-barcode-reader.git",
+    "fetchSpec": "https://github.com/cts-yazilim/cts-react-native-barcode-reader.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/cts-react-native-barcode-reader/-/cts-react-native-barcode-reader-1.0.7.tgz",
+  "_resolved": "git+https://github.com/cts-yazilim/cts-react-native-barcode-reader.git#2c0e693d73066947bbf51c3f3ec950480dfc112d",
   "_shasum": "95b9ec9ee810b44b88feaec80cd0572fc072e478",
-  "_spec": "cts-react-native-barcode-reader",
-  "_where": "",
+  "_spec": "https://github.com/cts-yazilim/cts-react-native-barcode-reader",
+  "_where": "C:\\Users\\Saksar\\Desktop\\Lib\\TestBridge",
   "author": {
     "name": "CTS YAZILIM"
   },
