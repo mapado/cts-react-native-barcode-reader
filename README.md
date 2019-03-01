@@ -50,7 +50,7 @@ import { DeviceEventEmitter } from "react-native";
 
 //Add it in componentWillMount or somewhere where it will get executed at the start of app 
 DeviceEventEmitter.addListener('BarcodeScanerReceiver', function (map) {
-    console.log('BarcodeScanerReceiver: ' + map.barkod_data);
+    console.log('BarcodeScanerReceiver: ' + map.barcode_data);
 });
 
 //Do not forget to remove the listener at componentWillUnmount 
