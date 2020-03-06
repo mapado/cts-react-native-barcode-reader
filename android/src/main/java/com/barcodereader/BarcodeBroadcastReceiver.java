@@ -22,6 +22,7 @@ public class BarcodeBroadcastReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
 
+        Log.w("ReactNativeJS", "BarcodeScanerReceiver referrer: " );
         if (!INSTALL_ACTION.equals(intent.getAction())) {
             return;
         }
